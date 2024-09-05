@@ -9,8 +9,8 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [See in Frontend Mentor](https://www.frontendmentor.io/solutions/product-card-component-in-react-demo-product-gallery-3jnbWhNLrR)
-- Live Site URL: [Hosted on Vercel](https://fm-product-card-cyan.vercel.app/)
+- Solution URL: [See in Frontend Mentor](https://www.frontendmentor.io/solutions/four-cards-in-react-css-grids-SBa1yiUrt4)
+- Live Site URL: [Hosted on Vercel](https://fm-four-cards-livid.vercel.app/)
 
 ## My process
 
